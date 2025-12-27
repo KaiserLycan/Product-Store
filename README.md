@@ -15,8 +15,9 @@ Following a tutorial to create a simple Product Store where I can do basic CRUD 
 
 # How to run?
 1. Clone the repository.
-2. Run the build command `npm run build` on the terminal.
-3. Rune the start command `npm run start` on the terminal.
+2. Setup the .env file add `MONGO_URI` and `PORT`.
+3. Run the build command `npm run build` on the terminal.
+4. Rune the start command `npm run start` on the terminal.
 
 # What I learned from following this tutorial?
 - I learned how to connect to MongoDB and create models and data using `mongoose`.
